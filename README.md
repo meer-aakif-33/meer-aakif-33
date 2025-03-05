@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meer-aakif-33
-- 👀 I’m interested in web dev(Mern Stack) ML
-- 🌱 I’m currently learning ML, DSA
+- 👀 web developer
+- 🌱 Exploring Machine Learning
 - 💞️ I’m looking to collaborate on projects related to MERN stack or ML
 - 📫 How to reach me https://x.com/meer_aakif_12
 
