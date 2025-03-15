@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meer-aakif-33
-- 👀 web developer
+- 👀 Specialized in MERN Stack development
 - 🌱 Exploring Machine Learning
 - 💞️ I’m looking to collaborate on projects related to MERN stack or ML
 - 📫 How to reach me https://x.com/meer_aakif_12
