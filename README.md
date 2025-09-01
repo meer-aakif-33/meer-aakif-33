@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meer-aakif-33
-- 👀 Full Stack Developer and MERN Stack development
-- 🌱 Machine Learning Enthusiast
+- 👀 Full Stack Developer, Machine Learning
 - 💞️ I’m looking to collaborate on projects related to MERN stack or ML
 - 📫 How to reach me https://www.linkedin.com/in/aakif-ahmad-mir-2b5b80288/
 
