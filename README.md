@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Full-Stack Developer • AI/ML Engineer • System Architect
+### Full-Stack Developer • AI/ML Developer • Agentic AI
 
 *Building intelligent, scalable systems at the intersection of AI and distributed computing*
 
